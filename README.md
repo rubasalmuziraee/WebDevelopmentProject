@@ -30,5 +30,3 @@ Beauty Gate is a dynamic and interactive website designed to cater to women's ne
 ## **Contributing**
 Contributions are welcome! If you'd like to help improve Beauty Gate, feel free to fork the repository and submit pull requests.
 
-## **License**
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
